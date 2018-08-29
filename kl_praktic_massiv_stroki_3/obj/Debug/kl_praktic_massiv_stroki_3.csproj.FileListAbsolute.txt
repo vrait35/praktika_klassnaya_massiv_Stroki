@@ -1,0 +1,6 @@
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\bin\Debug\kl_praktic_massiv_stroki_3.exe.config
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\bin\Debug\kl_praktic_massiv_stroki_3.exe
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\bin\Debug\kl_praktic_massiv_stroki_3.pdb
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\obj\Debug\kl_praktic_massiv_stroki_3.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\obj\Debug\kl_praktic_massiv_stroki_3.exe
+C:\Users\anuar\source\repos\kl_praktic_massiv_stroki_3\kl_praktic_massiv_stroki_3\obj\Debug\kl_praktic_massiv_stroki_3.pdb
